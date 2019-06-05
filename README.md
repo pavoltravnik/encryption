@@ -5,6 +5,7 @@ Tools for encryption
 ### Nice to read
 
 - [EFF](https://www.eff.org/)
+- [EFF Guide](https://ssd.eff.org/en/module-categories/tool-guides)
 
 ### Mobile apps
 
