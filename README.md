@@ -68,6 +68,10 @@ export LC_CTYPE=C
 
 Only password
 
+![Symmetric key encryption](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Symmetric_key_encryption.svg/500px-Symmetric_key_encryption.svg.png)
+
 ### Asymmetric encryption
 
-Key pair
+Key pair - Public and Private keys
+
+![Asymmetric encryption](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/500px-Public_key_encryption.svg.png)
